@@ -1,5 +1,9 @@
 # Changelog
 
+## [v47.50-alpha](https://pypi.org/project/jrnl/v47.50-alpha/) (2021-03-13)
+
+[Full Changelog](https://github.com/jrnl-org/jrnl/compare/v2.8-beta...v47.50-alpha)
+
 ## [v2.8-beta](https://pypi.org/project/jrnl/v2.8-beta/) (2021-03-13)
 [Full Changelog](https://github.com/jrnl-org/jrnl/compare/v2.7.2-beta...HEAD)
 
