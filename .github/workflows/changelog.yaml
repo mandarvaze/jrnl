@@ -150,6 +150,7 @@ jobs:
       - name: Merge to Release branch
         if: env.FULL_RELEASE == 'true'
         run: |
+          git config pull.ff only
           git checkout release
           git pull origin release
           git merge --ff-only $BRANCH
